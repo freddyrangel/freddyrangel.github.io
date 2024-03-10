@@ -18,6 +18,7 @@ theme = "m10c"
 [params]
   author = "Freddy Rangel"
   description = "Software engineer, author, conference speaker, instructor"
+  avatar = "images/avatar.jpg"
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
