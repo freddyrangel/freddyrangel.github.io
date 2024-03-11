@@ -1,7 +1,7 @@
 ---
 title: "How I Manage Tasks: The Pipeline Method"
 date: 2024-03-10T18:56:23+01:00
-draft: true
+draft: false
 ---
 
 Modern life can often feel complicated and overwhelming, right? It's a juggling act between balancing overflowing email inboxes, ever-growing to-do lists, and managing our personal and professional lives. Bringing order to the chaos often feels like a pipe dream. You know what I'm talking about and you're definitely not alone. I too have sought to better manage my time and actually get real work done, not just busywork. Look, I'm not a guru and I'm definitely not a productivity expert. I'm a champion goof-off and procrastinator. But I've been using a system for quite a while that's evolved into its own thing that I find useful. I call it the _Pipeline Method_. I wouldn't go so far as to call it revolutionary, because it's not. But, it works for me and perhaps it might just work for you too.
