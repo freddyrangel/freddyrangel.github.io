@@ -20,6 +20,7 @@ theme = "m10c"
   description = "Software engineer, author, conference speaker, instructor"
   avatar = "images/avatar.jpg"
   menu_item_separator = " - "
+  favicon = "/favicon.ico"
   [[params.social]]
     icon = "github"
     name = "Github"
