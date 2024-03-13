@@ -4,15 +4,17 @@ date: 2024-03-07T09:59:57+01:00
 draft: false
 ---
 
-Hi, I'm Freddy Rangel. I'm a software engineer and author of "React Under the
-Hood: A Beginner's Guide". I teach workshops and occasionally go on the
-conference circuit. I have over a decade of real-world professional experience
-working on everything from back-end microservices to front-end SPAs. I've mostly
-worked with Rust, Ruby, TypeScript, and Go and everything in-between.
+Hi, I'm Freddy Rangel, a software engineer, author, and public speaker. I build
+things with computers then tell people about it. My philosophy on tools,
+languages, frameworks, and platforms is straightforward: if it fits, it ships.
+My true passion lies in the methodologies, processes, and principles of software
+development. The goal of our field is to deliver working, high-quality software
+that meets real-world needs efficiently and affordably. I champion any approach
+that furthers this goal.
 
-Before entering tech, I received a BA in Economics from the University of
-California, Berkeley. Afterward I served in the US Army as a Combat Engineer
-Officer. I lead a Route Clearance Team (RCT) tasked with detecting,
-investigating, and neutralizing explosives in Afghanistan.
+Over the years, I've authored books and maintained an occasional blog where I
+explore various facets of software development. Every now and then, I embark on
+conference tours and conduct workshops, like an old man yelling at a cloud.
 
-Feel free to reach out on my socials or [email me](mailto:frederick.rangel@gmail.com).
+For my latest thoughts and rants, follow me on Twitter at
+[@frangel85](https://twitter.com/frangel85).
