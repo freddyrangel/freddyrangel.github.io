@@ -4,36 +4,36 @@ title = "Freddy Rangel"
 theme = "m10c"
 
 [menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 2
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
 
 [params]
-  author = "Freddy Rangel"
-  description = "Software engineer, author, conference speaker, instructor"
-  avatar = "images/avatar.jpg"
-  menu_item_separator = " - "
-  favicon = "/favicon.ico"
-  [[params.social]]
-    icon = "github"
-    name = "Github"
-    url = "https://github.com/freddyrangel"
-  [[params.social]]
-    icon = "twitter"
-    name = "Twitter"
-    url = "https://twitter.com/gohugoio"
-  [[params.social]]
-    icon = "linkedin"
-    name = "LinkedIn"
-    url = "www.linkedin.com/in/frederickrangel"
-  [[params.social]]
-    icon = "mail"
-    name = "Email"
-    url = "mailto:frederick.rangel@gmail.com"
+author = "Freddy Rangel"
+description = "Software engineer, author, conference speaker, instructor"
+avatar = "images/avatar.jpg"
+menu_item_separator = " - "
+favicon = "/favicon.ico"
+[[params.social]]
+icon = "github"
+name = "Github"
+url = "https://github.com/freddyrangel"
+[[params.social]]
+icon = "twitter"
+name = "Twitter"
+url = "https://twitter.com/gohugoio"
+[[params.social]]
+icon = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/frederickrangel/"
+[[params.social]]
+icon = "mail"
+name = "Email"
+url = "mailto:frederick.rangel@gmail.com"
